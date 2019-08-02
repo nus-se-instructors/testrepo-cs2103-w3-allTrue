@@ -1,6 +1,4 @@
-# testrepo-cs2103-w2-allTrue
+# testrepo-cs2103-w3-allTrue
 
 Note:
-* some tags deviate slightly from the given format
-* only some optional increments have been added
-* there are extra tags, to be ignored
+* After forking this, creat a PR back to this repo, with the name "Jean Tan Duke Increments"
