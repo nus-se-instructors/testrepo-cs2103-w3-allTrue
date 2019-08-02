@@ -12,3 +12,4 @@ A-Packages
 A-JUnit
 A-Jar
 Level-9
+A-JavaDoc
