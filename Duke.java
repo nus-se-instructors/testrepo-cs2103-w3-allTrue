@@ -11,3 +11,4 @@ A-MoreOOP
 A-Packages
 A-JUnit
 A-Jar
+A-CodingStandard
